@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/4df80576-e8f3-4df8-9ebc-353f579527ed
+https://github.com/user-attachments/assets/ad3ff031-960f-478a-99d4-c15e8179841e
 
 ## Project Objective
 
