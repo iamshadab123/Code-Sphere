@@ -4,6 +4,8 @@
 
 https://github.com/user-attachments/assets/4df80576-e8f3-4df8-9ebc-353f579527ed
 
+## Project Objective
+
 1. Create a playground area where one can create multiple code snippets and run it using an online compiler and execution system(Judge0)
 2. Create a Code Editor Frontend using ReactJS (CodeMirror package)
 3. Implemented flexible layout structure using styled components
