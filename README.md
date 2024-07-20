@@ -1,10 +1,9 @@
 # Code Sphere | An Online IDE
 
 ## Demo
+https://github.com/user-attachments/assets/7d8eae01-53f9-49ac-9bd1-15960ee3b45f
 
-[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://www.youtube.com/watch?v=mEFBdhQmpy4&t=3s&ab_channel=VishalRajput)
-
-## Project Objective
+ect Objective
 
 1. Create a playground area where one can create multiple code snippets and run it using an online compiler and execution system(Judge0)
 2. Create a Code Editor Frontend using ReactJS (CodeMirror package)
